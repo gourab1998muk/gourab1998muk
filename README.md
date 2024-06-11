@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gourab Mukherjee</h1>
 <h3 align="center">A passionate data enthusiast dedicated to solving real-world problems and continuously learning, eager to contribute to dynamic teams.</h3>
-<img align="right" alt="Coding" width="400" src= “https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpyZjk5c3NscmVuZm92a2ZjMm00YzlkNGx2ZTZxOHRhZ2FsbjFnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp”>
-
+<div align="center">
+  <img alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpyZjk5c3NscmVuZm92a2ZjMm00YzlkNGx2ZTZxOHRhZ2FsbjFnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourab1998muk&label=Profile%20views&color=0e75b6&style=flat" alt="gourab1998muk" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning Algorithms**
